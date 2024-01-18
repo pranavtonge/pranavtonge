@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranav Tonge
-- 👀 I’m interested in creating a platform in agriculture field to monitor the crops using artificial intelligence to maximize the yielding
-- 🌱 I’m currently learning the new techology related to machine learning and deep learning
+- 👀 I’m interested in creating an ML platform in the agriculture field to monitor the crops using artificial intelligence to maximize the yielding
+- 🌱 I’m currently learning the new technology related to machine learning and deep learning
 - 💞️ I’m looking to collaborate with precision agriculture organizations 
-- 📫 How to reach me at https://www.linkedin.com/in/pranav-tonge-46889769
+- 📫 Reach me at https://www.linkedin.com/in/pranav-tonge-46889769
